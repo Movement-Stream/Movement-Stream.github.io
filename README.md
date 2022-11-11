@@ -1,4 +1,4 @@
 # Movement-Stream.github.io
 
 
-![](./movementStream.excalidraw.png)
+![](movementStream.excalidraw.png)
